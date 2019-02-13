@@ -1,4 +1,6 @@
-# Preprocessing-Unstructured-text
+# Preprocessing-Unstructured-text  
+![pandas](https://user-images.githubusercontent.com/47202519/52708039-264eee00-2faf-11e9-9761-9a60f9e09067.jpg)
+
 ## Some key points of this code  
  <ul>
     <li>Pandas is used to structure the data</li>
